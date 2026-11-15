@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Chanchal Rathore 👋
 
-<!--
-**chanchalrathore115-hash/chanchalrathore115-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer | BCA Student 💻
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Pursuing Bachelor of Computer Applications (BCA).
+
+👩‍💻 About Me
+
+- 🌱 Currently learning Python and Pandas.
+- 💻 Exploring C, C++ and Web Development.
+- 📊 Interested in Data science.
+- 🚀 Building projects and improving my coding skills.
+
+🛠️ Technical Skills
+
+- Python
+- C / C++
+- Pandas- Basic /numpy
+- HTML / CSS  Basic
+- Git & GitHub Basic
+
+📂 Projects
+
+- Python Quiz Application (In Progress)
+- Simple Calculator
+
+🎯 Goals
+
+- Build real-world projects.
+- Improve problem-solving skills.
+- Become a skilled software developer.
+
+---
+
+Thanks for visiting my profile! ⭐
+
